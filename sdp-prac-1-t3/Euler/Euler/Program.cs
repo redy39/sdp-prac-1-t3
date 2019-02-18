@@ -13,7 +13,7 @@ namespace Euler
             //Redy van Dyk - problem 6
             double dif = 0, sumOfSqur = 0, squrOfSum = 0;
 
-            for (int i = 1; i<=10;i++)
+            for (int i = 1; i<=100;i++)
             {
                 sumOfSqur += i * i;
                 squrOfSum += i; // remember to squr
